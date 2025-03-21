@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
-    background: linear-gradient(70deg, blue, purple, pink);
+    background-color: #f9f9f9;
 }
 
 h1 {
@@ -34,6 +34,12 @@ canvas {
 
 .Texto {
     display: none;
+}
+
+.Texto img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 
 .Texto h2 {
